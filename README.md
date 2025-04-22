@@ -1,6 +1,6 @@
 # McBuddy
 
-![McBuddy Logo Placeholder]("C:\Users\betit\OneDrive\Pictures\Screenshots\McBUDDY.png")
+![Image](https://github.com/user-attachments/assets/798083a6-6440-4394-aca8-049ffe8c0c2b)
 
 ### Resumen
 
