@@ -1,6 +1,6 @@
 # McBuddy
 
-![McBuddy Logo Placeholder](McBUDDY.png)
+![McBuddy Logo Placeholder]("C:\Users\betit\OneDrive\Pictures\Screenshots\McBUDDY.png")
 
 ### Resumen
 
