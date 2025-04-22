@@ -1,5 +1,7 @@
 # McBuddy
 
+<img width="853" alt="McBuddy" src="https://github.com/user-attachments/assets/798083a6-6440-4394-aca8-049ffe8c0c2b">
+
 ![Image](https://github.com/user-attachments/assets/798083a6-6440-4394-aca8-049ffe8c0c2b)
 
 ### Resumen
